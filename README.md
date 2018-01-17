@@ -9,3 +9,6 @@ It will guide you through these steps:
 5. import the result back to Mathematica,
 6. make a plot
 
+If you use this code in your research, please cite:
+[1] Xun-Jie Xu, Phys. Rev. D 95, no. 11, 115019 (2017), [arXiv:1705.08965 [hep-ph]].
+
