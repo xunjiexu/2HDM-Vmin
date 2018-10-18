@@ -10,6 +10,8 @@ It will guide you through these steps:
 6. make a plot
 
 If you use this code in your research, please cite:
+
 [1] Xun-Jie Xu, Phys. Rev. D 95, no. 11, 115019 (2017), [arXiv:1705.08965 [hep-ph]].
+
 [2] Ning Chen, Chun Du, Yongcheng Wu, Xun-Jie Xu, arXiv:1810.04689 [hep-ph].
 
